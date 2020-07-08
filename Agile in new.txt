@@ -1,0 +1,72 @@
+PM phases:
+1) Initiation
+2) Planning
+	-	Budget
+	-	Requirement
+	-	timelines
+	-	Resource
+3) Execution
+4) Monitoring & controlling
+5) Closure
+
+PMI (US clients) - (Static projects - changes in requirements handles thru change management)
+
+PRINCE2 (UK clients) - (real life scenarios - changes are done as per real time per bussiness process)
+
+Product lifecycle:
+1) User/Market research
+2) Ideation
+			}Developement
+3) Introduction
+4) Growth
+5) Peak
+6) Maturity
+7) Decline/Decommission
+
+Product owner/Project Manager work in Developement window
+Product manager work in all 7 phases.
+
+Waterfall:
+Plan->Analyse->Design->build->test->deploy->maintenance
+
+Agile:
+Increments - - In 1 realease how much functionality you will provide
+Iteration - -  How many icremants
+Sprint- - - -  Timeline for 1 iteration
+
+Projects:
+Implementation
+Enhancement
+Upgrate
+Maintenance
+--------------------------------------------------------------------------
+Introduction to SCRUM:
+
+Theme - Need/requirement
+Epic - Each release, can be considered as a module
+Feature
+Story - User stories (Statement and Acceptance criteria), should have MVP (minimum viable product)
+Task
+
+Story Point: hours to convert user story into a working functionality. (scale Could be varied per client, could be hour, Man Daysm Week, etc)
+
+Scrum Cycle:
+Product Owner: - Get requirements from different bussiness stake holder (theme), collect all in product backlog (Features), convert them into user stories, then prioritize in product backlog-- Team along with product owner discuss on the priority and delivery timeline to define Sprint and commitment in sprint planning.
+-------------------------------------------------------------------------
+Product Backlog - Prepared by PO in the initiation phase.
+Release Backlog - Prepared by PO What features are part of epic/release may be 1,2,3 sprints.. Prepared in Sprint 0.
+Sprint Backlog - Prepared by DT and prioritized by DT. in Sprint planning ceremony 
+Imepedent Log - Scrum master prepares it 
+burn down chart - by DT, 
+burn up char - by PO
+---
+Prioritization methods:
+Point strategy - by assigning weitage and sort by value... upto 10 User stories
+Bubble Strategy - 
+
+
+
+Scrum master practices
+Product owner
+Agile coach
+Spotify agile
